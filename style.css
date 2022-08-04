@@ -1,0 +1,38 @@
+body {
+    background-color: #C3A995;
+}
+
+.info {
+    box-sizing: content-box;
+    /* box-shadow: 10px 20px 20px 20px #BAD9A2; */
+    background-color: white;
+    text-align: left;
+    margin: auto;
+    width: 80%;
+    height: 520px;
+    padding: 100px;
+    border: 5px solid;
+}
+
+img{
+    height: 55%;
+    position: relative;
+    top: -200px;
+    left: 580px;
+    border: 3px solid;
+    border-width: 2px;
+    border-radius: 205px;
+}
+
+.background {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    align-content: center;
+}
+
+.nav_home {
+    cursor: pointer;
+}
+/* .nav {
+
+} */
